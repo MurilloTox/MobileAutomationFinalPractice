@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testsuite">
+    <test name="Mobile Test Final Practice">
+        <classes>
+            <class name="com.globant.tests.NavigationTest"></class>
+            <class name="com.globant.tests.SignUpTest"></class>
+            <class name="com.globant.tests.LoginTest"></class>
+            <class name="com.globant.tests.SwipeTest"></class>
+        </classes>
+    </test>
+</suite>
